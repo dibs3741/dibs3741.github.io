@@ -1,4 +1,4 @@
-## Portfolio
+## Selected projects in python, data science, databases and web services 
 
 ---
 
