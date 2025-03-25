@@ -10,7 +10,7 @@ A spreadsheet is a great tool for data analysis and visualization. They are nimb
 <br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a>
 <a href="#"><img src="https://img.shields.io/badge/FastAPI-white?logo=fastapi" alt="" /></a>  
-<a href="#"><img src="https://img.shields.io/badge/dotnet-white?logo=.NET" alt="" /></a>  
+<a href="#"><img src="https://img.shields.io/badge/dotnet-white?logo=dotnet" alt="" /></a>  
 <br>  
 <br>  
 <a href="https://github.com/dibs3741/excel-demo-ws">View code on GitHub</a>  
