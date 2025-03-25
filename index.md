@@ -7,6 +7,9 @@
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+<a href="https://www.linkedin.com/in/dibyendu-majumder-3725142/">View code on GitHub</a>  
+<a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a>
+<a href="#"><img src="https://img.shields.io/badge/FastAPI-white?logo=fastapi" alt="" /></a>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
