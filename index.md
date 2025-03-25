@@ -9,7 +9,7 @@ A spreadsheet is a great tool for data analysis and visualization. They are nimb
 <br>
 <br>
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a>
-<a href="#"><img src="https://img.shields.io/badge/FastAPI-white?logo=fastapi" alt="" /></a>  
+<a href="#"><img src="https://img.shields.io/badge/FastAPI-white?logo=fastapi" alt="" /></a>
 <a href="#"><img src="https://img.shields.io/badge/MySQL-white?logo=mysql" alt="" /></a>  
 <br>  
 <br>  
