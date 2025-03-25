@@ -9,12 +9,8 @@ A spreadsheet is a great tool for data analysis and visualization. They are nimb
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a>
 <a href="#"><img src="https://img.shields.io/badge/FastAPI-white?logo=fastapi" alt="" /></a>  
 
-[View code on GitHub](/dibs3741/excel-demo-ws)  
 
 <a href="https://github.com/dibs3741/excel-demo-ws">View code on GitHub</a>  
 
 ---
-
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
