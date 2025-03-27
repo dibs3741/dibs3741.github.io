@@ -6,8 +6,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   Experience undertaking end to end responsibility for leading and carrying out the technology vision leading all aspects of technology strategy and growth  
   <br><br>
   <a href="https://www.linkedin.com/in/dibyendu-majumder-3725142/">View My LinkedIn Profile</a> 
-  <br><br>
-  Check out BERIL, a portfolio management system I have developed and designed for DIY users who wants to manage their own investment. 
+  <br>
+  <p align="justify">
+  Check out BERIL, a portfolio management system I have developed and designed for DIY users who wants to manage their own investment.<br> 
+  </p>
   <a href="https://www.berilsoft.com">Check out BERIL</a> 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
